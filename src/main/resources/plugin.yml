@@ -1,0 +1,4 @@
+name: karol-skygen-paper
+version: '${project.version}'
+main: pl.karol.skygen.GeneratorPlugin
+api-version: 1.18
